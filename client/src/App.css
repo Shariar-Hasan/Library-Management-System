@@ -1,0 +1,9 @@
+
+.clickEffect{
+transform: scale(1);
+transition: .25s;
+}
+
+.clickEffect:active{
+    transform: scale(.9);
+}

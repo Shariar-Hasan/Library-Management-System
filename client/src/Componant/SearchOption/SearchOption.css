@@ -1,0 +1,17 @@
+.searchOption{
+    position: fixed;
+    top: 50px;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+    z-index: 999;
+    border-radius: 10px;
+}
+.searchOption select{
+    border-radius: 10px 0 0 10px;
+}
+.searchOption button{
+    border-radius: 0 10px  10px 0;
+}
